@@ -1,0 +1,14 @@
+{
+  "databaseURL": "",
+  "token": "",
+
+  "channelIds": {
+    "welcomeChannel": "",
+    "goodbyeChannel": ""
+  },
+  "joinRoleIds": [
+    "",
+    "",
+    ""
+  ]
+}

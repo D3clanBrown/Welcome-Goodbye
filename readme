@@ -1,0 +1,14 @@
+dependencies
+
+ascii-table
+colors
+discord.js
+express
+fs
+js-yaml
+moment
+"mongodb": "^6.3.0",
+"mongoose": "^6.0.12",
+ms
+
+Go to the settings folder and then enter the config and add all the required information

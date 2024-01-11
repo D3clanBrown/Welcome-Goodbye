@@ -1,0 +1,36 @@
+{
+  "welcomeEmbed": {
+    "title": "Server Manager",
+    "color": "Green",
+    "description": "There was a new member join",
+    "fields": {
+      "field1": {
+        "name": "Username & Id",
+        "value": "<user-name> | <user-id>",
+        "inline": false
+      },
+      "field2": {
+        "name": "Created Account",
+        "value": "<created-account>",
+        "inline": false
+      },
+      "field3": {
+        "name": "Join Date",
+        "value": "<join-date>",
+        "inline": false
+      }
+    }
+  },
+  "goodbyeEmbed": {
+    "title": "Server Manager",
+    "color": "Yellow",
+    "description": "Just lost a member",
+    "fields": {
+      "field1": {
+        "name": "Username & Id",
+        "value": "<user-name> | <user-id>",
+        "inline": false
+      }
+    }
+  }
+}
